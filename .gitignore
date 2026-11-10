@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+*.yml
+*.yaml
+*.properties
+*.json
+/.idea/
+/build/
