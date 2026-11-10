@@ -68,3 +68,9 @@ integration-testing/supporting-repos/
 test.db
 
 .version-backups/
+*.yml
+*.yaml
+*.properties
+*.json
+/.idea/
+/build/
