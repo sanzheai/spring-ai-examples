@@ -64,3 +64,9 @@ logs/
 *.log
 test-report.md
 integration-results.md
+*.yml
+*.yaml
+*.properties
+*.json
+/.idea/
+/build/
